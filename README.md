@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vidit2504/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vidit2504/Leetcode-questions/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vidit2504/Leetcode-questions/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vidit2504/Leetcode-questions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vidit2504/Leetcode-questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
