@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vidit2504/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vidit2504/Leetcode-questions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Vidit2504/Leetcode-questions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vidit2504/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vidit2504/Leetcode-questions/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Vidit2504/Leetcode-questions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vidit2504/Leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Vidit2504/Leetcode-questions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
