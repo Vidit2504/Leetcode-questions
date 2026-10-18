@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vidit2504/Leetcode-questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Vidit2504/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Vidit2504/Leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Vidit2504/Leetcode-questions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -72,8 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vidit2504/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Vidit2504/Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Vidit2504/Leetcode-questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vidit2504/Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Vidit2504/Leetcode-questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vidit2504/Leetcode-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
